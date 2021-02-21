@@ -1861,6 +1861,11 @@ footer p span{
     .b12_contact .b12_form{
         margin-top: 10%;
     }
+    .navbar_nav{
+        right: -15%;
+        text-align: center;
+        width: 500px;
+    }
 } 
 @media screen and (max-width: 378px){
     .block4 .b4_title{
@@ -1972,6 +1977,11 @@ footer p span{
         padding: 20px 40px;
         color: #1d1d1d;
         border: 5px solid #333333;
+    }
+    .navbar_nav{
+        right: -20%;
+        text-align: center;
+        width: 500px;
     }
     
 }
